@@ -1,9 +1,0 @@
-05:59:37.363985 IP ubuntu.local.ssh > 192.168.8.95.2419: Flags [P.], seq 2619209083:2619209211, ack 2118136413, win 137, length 128
-05:59:37.364492 IP ubuntu.local.ssh > 192.168.8.95.2419: Flags [P.], seq 128:192, ack 1, win 137, length 64
-05:59:37.364628 IP 192.168.8.95.2419 > ubuntu.local.ssh: Flags [.], ack 192, win 2049, length 0
-05:59:37.364730 IP ubuntu.local.ssh > 192.168.8.95.2419: Flags [P.], seq 192:320, ack 1, win 137, length 128
-05:59:37.364891 IP ubuntu.local.ssh > 192.168.8.95.2419: Flags [P.], seq 320:384, ack 1, win 137, length 64
-05:59:37.364978 IP 192.168.8.95.2419 > ubuntu.local.ssh: Flags [.], ack 384, win 2048, length 0
-05:59:37.365585 IP ubuntu.local.8675 > 192.168.8.1.domain: 43213+ PTR? 95.8.168.192.in-addr.arpa. (43)
-05:59:42.578881 IP ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 1.8.168.192.in-addr.arpa. (42)
-
